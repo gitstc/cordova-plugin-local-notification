@@ -1,9 +1,9 @@
 {
-  "name": "gitstc/cordova-plugin-local-notification",
+  "name": "@gitstc/cordova-plugin-local-notification",
   "version": "1.0.0",
   "description": "STC's fork of Cordova Local Notifications Plugin",
   "cordova": {
-    "id": "gitstc/cordova-plugin-local-notification",
+    "id": "@gitstc/cordova-plugin-local-notification",
     "platforms": [
       "android",
       "ios",
